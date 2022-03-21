@@ -1,2 +1,2 @@
 # SymbolicExecutionDemystified
-Slides and Material for "SymbolicExecutionDemystified" Presentation @ Insomni'Hack 2022
+Slides and Material for "Symbolic Execution Demystified" Presentation @ Insomni'Hack 2022
